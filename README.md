@@ -2,8 +2,8 @@
 <h3 align="center">A passionate frontend developer from Poland</h3>
 <!-- GitHub Stats -->
 
-<a align="center" href="https://github.com/AdamKowalczuk">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdamKowalczuk&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+<a align="right" href="https://github.com/AdamKowalczuk">
+  <img align="right" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdamKowalczuk&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>  
 
 <a align="right" href="https://github.com/AdamKowalczuk">
