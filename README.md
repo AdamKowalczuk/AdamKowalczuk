@@ -1,5 +1,5 @@
 <h1 align="center">Cześć 👋, jestem Adam</h1>
-<h3 align="center">Junior Frontend Developer</h3>
+
 <!-- GitHub Stats -->
 
 <a  align="center" href="https://github.com/AdamKowalczuk">
