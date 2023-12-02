@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Adam</h1>
 
-<h3 align="center">Junior Frontend Developer</h3>
+<h3 align="center">React Frontend Developer</h3>
 
 <h3 align="left">Languages and Tools:</h3>
 <h4 align="left">Frontend:</h4>
