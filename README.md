@@ -14,7 +14,8 @@
   <img src="https://github.com/user-attachments/assets/9b28a281-b468-4502-bf14-4d3094823cf0" alt="next" width="40" height="40"/>
   <img src="https://github.com/user-attachments/assets/61520d9c-23ca-42fe-97d8-ce482b1097e2" alt="chakra" width="40" height="40"/>
    <img src="https://github.com/user-attachments/assets/b9753d84-4ca4-403b-a3c1-008dab23a826" alt="tailwind" height="40"/>
-  <img src="https://github.com/user-attachments/assets/425fc8e1-8524-4fe6-a450-589c52b0dedc" alt="shadcn-ui" height="40"/>
+  <img src="https://github.com/user-attachments/assets/6cae48a1-1b00-4f3f-bc38-d0bfbb80b34c" alt="shadcn-ui" height="40"/>
+
 </p>
 <h4 align="left">Backend:</h4>
 <p>    
